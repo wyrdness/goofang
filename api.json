@@ -1,0 +1,150 @@
+{
+  "category": "CRYPTID",
+
+  "meta": {
+    "version": "1.0.0",
+    "schema_version": "1.0.0",
+    "last_updated": "2026-01-14",
+    "repository": "https://github.com/wyrdness/goofang",
+    "maintainers": [
+      {
+        "name": "Wyrdness Team",
+        "github": "wyrdness",
+        "role": "maintainer"
+      }
+    ],
+    "license": {
+      "data": "CC0-1.0",
+      "content": "CC-BY-4.0"
+    }
+  },
+
+  "phenomenon": {
+    "id": "goofang",
+    "name": "Goofang",
+    "aliases": [],
+    "category": "CRYPTID",
+    "subcategory": "Fearsome Critter",
+    "tags": [
+      "fearsome-critter",
+      "lumberjack-folklore",
+      "aquatic",
+      "backwards-swimmer",
+      "minnesota",
+      "humorous",
+      "tall-tale"
+    ],
+    "status": "folklore",
+    "description": {
+      "summary": "An aquatic creature that can only swim and walk backwards, catching fish by swimming in reverse through Minnesota lakes.",
+      "full": "The Goofang is one of the most peculiar fearsome critters, cursed or designed to move only in reverse. This fish-like or amphibious creature inhabits Minnesota lakes and can only swim backwards—never forward. According to lumberjack tall tales, the Goofang has adapted to this limitation by becoming an expert backwards swimmer, catching fish by approaching them from behind in reverse. The creature supposedly swims tail-first through the water, using its backward motion to sneak up on prey. The Goofang represents the fearsome critter tradition's love of impossible biological limitations that creatures somehow turn into advantages, creating absurd ecological niches through mock-Darwinian logic."
+    },
+    "etymology": {
+      "origin": "American lumberjack folklore, early 20th century, Minnesota",
+      "meaning": "'Goof' (silly/backward) plus 'fang'; creature that moves goofily",
+      "first_use": "circa 1910"
+    }
+  },
+
+  "classification": {
+    "taxonomy": {
+      "category": "CRYPTID",
+      "type": "Fearsome Critter",
+      "subtype": "Aquatic",
+      "variant": "Backwards-only"
+    },
+    "related_phenomena": []
+  },
+
+  "characteristics": {
+    "physical": {
+      "size": "Fish-sized to larger, varies by account",
+      "coloration": ["varies, aquatic coloring"],
+      "features": [
+        {
+          "feature": "Backwards motion only",
+          "description": "Can only move in reverse, never forward",
+          "frequency": "always"
+        },
+        {
+          "feature": "Aquatic build",
+          "description": "Fish-like or amphibious body",
+          "frequency": "always"
+        }
+      ],
+      "morphology": "Fish-like or amphibious creature built for backwards swimming"
+    },
+    "abilities": [
+      {
+        "ability": "Backwards swimming",
+        "description": "Swims in reverse with great skill",
+        "frequency": "constant",
+        "evidence_level": "folklore"
+      },
+      {
+        "ability": "Reverse hunting",
+        "description": "Catches fish by approaching backwards",
+        "frequency": "common",
+        "evidence_level": "folklore"
+      }
+    ],
+    "behavior": {
+      "activity_period": "variable",
+      "disposition": "neutral",
+      "social_structure": "solitary",
+      "habitat_preference": ["Minnesota lakes", "freshwater"],
+      "diet": "Fish (caught while swimming backwards)",
+      "patterns": [
+        "Swims only in reverse",
+        "Walks backwards on land",
+        "Hunts by approaching from behind in reverse",
+        "Adapted entire lifestyle to backwards motion"
+      ]
+    }
+  },
+
+  "distribution": {
+    "range": {
+      "description": "Minnesota lakes and waterways",
+      "continents": ["North America"],
+      "countries": ["United States"],
+      "regions": ["Minnesota", "Upper Midwest lakes"]
+    },
+    "temporal": {
+      "first_recorded": {
+        "date": "1910",
+        "circa": true,
+        "source": "Lumberjack tall tale collections, Minnesota lumber camps"
+      }
+    }
+  },
+
+  "history": {
+    "origins": {
+      "cultural_roots": "American occupational folklore from Minnesota lumber camps",
+      "folklore_connections": "Represents impossible limitation turned into adaptation"
+    }
+  },
+
+  "cultural": {
+    "folklore": {
+      "traditions": ["Minnesota lumberjack tall tales"],
+      "beliefs": "Catches fish through backwards swimming; adapted to reverse motion"
+    },
+    "popular_culture": {
+      "literature": [
+        "Fearsome Creatures of the Lumberwoods by William T. Cox (1910)"
+      ]
+    }
+  },
+
+  "sources": [
+    {
+      "id": "cox-1910",
+      "type": "book",
+      "title": "Fearsome Creatures of the Lumberwoods",
+      "authors": ["William T. Cox"],
+      "date": "1910"
+    }
+  ]
+}
